@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
 ### Hi there 👋
 - 💻 I’m a QA Engineer and Software Developer in Chicago, IL
 - 🔭 I’m currently working on a project to run tests and publish results using Playwright, Argo Workflows, and Kubernetes
