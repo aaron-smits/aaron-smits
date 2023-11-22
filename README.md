@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m a QA Engineer and Software Developer in Chicago, IL
+- 💻 I’m a QA Engineer and Software Developer in Chicago, IL
 - 🔭 I’m currently working on a project to run tests and publish results using Playwright, Argo Workflows, and Kubernetes
 - 🌳 I'm learning Go and Sveltekit
 - 💬 Ask me about e2e testing, Playwright, test automation
