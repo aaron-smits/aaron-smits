@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🌱 I’m a QA Engineer and Software Developer in Chicago, IL
+- 🔭 I’m currently working on a project to run tests and publish results using Playwright, Argo Workflows, and Kubernetes
+- 🌳 I'm learning Go and Sveltekit
+- 💬 Ask me about e2e testing, Playwright, test automation
+- 📫 How to reach me: aaronsmitstc@gmail.com
 <!--
 **aaron-smits/aaron-smits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
