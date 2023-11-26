@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 💻 I’m a QA Engineer and Software Developer in Chicago, IL
 - 🔭 I’m currently working on a project to run tests and publish results using Playwright, Argo Workflows, and Kubernetes
-- 🌳 I'm learning Go and Sveltekit
+- 🌳 I'm learning Go, Kubernetes, and Sveltekit
 - 💬 Ask me about e2e testing, Playwright, test automation
 - 📫 How to reach me: aaronsmitstc@gmail.com
 <!--
