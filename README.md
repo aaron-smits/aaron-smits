@@ -5,6 +5,7 @@
 - 🌳 I'm learning Go, Kubernetes, and Sveltekit
 - 💬 Ask me about e2e testing, Playwright, test automation
 - 📫 How to reach me: aaronsmitstc@gmail.com
+- 💻 Personal site: https://aaronsmits.xyz
 <!--
 **aaron-smits/aaron-smits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
