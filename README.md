@@ -1,11 +1,5 @@
-![](https://komarev.com/ghpvc/?username=aaron-smits&color=grey)
 ### Hi there 👋
 - 💻 I’m a Software Engineer in Chicago, IL
-- 🔭 I’m currently working on a project to run tests and publish results using Playwright, Argo Workflows, and Kubernetes
-- 🌳 I'm learning Go, Kubernetes, and Sveltekit
-- 💬 Ask me about e2e testing, Playwright, test automation
-- 📫 How to reach me: aaronsmitstc@gmail.com
-- 💻 Personal site: https://aaronsmits.xyz
 <!--
 **aaron-smits/aaron-smits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
